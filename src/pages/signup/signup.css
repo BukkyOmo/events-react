@@ -1,0 +1,12 @@
+input {
+    padding: 10px;
+    margin-top: 10px;
+    width: 100%;
+    outline: none;
+    display: block;
+}
+
+.form-error{
+    color: red;
+    font-size: 12px
+}
